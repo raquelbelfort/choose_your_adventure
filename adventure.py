@@ -7,7 +7,7 @@ if answer == "left":
     answer == input("You come to a river. You can walk around it or swim accross. (walk / swim): ").lower()
     
     if answer == "walk":
-        print("You walker for many miles and ran out of water.")
+        print("You walked for many miles and ran out of water.")
     elif answer == "swim":
         print("You swam accross and were eaten by an alligator.")
     else:
